@@ -1,0 +1,8 @@
+Frontend: React.js
+Backend: Node.js com Express.js
+Banco de Dados: MongoDB
+Autenticação: JSON Web Tokens (JWT)
+Gerenciamento de Estado: Redux
+Estilização: CSS e SASS
+Hospedagem: AWS ou Heroku
+Controle de Versão: Git e GitHub
